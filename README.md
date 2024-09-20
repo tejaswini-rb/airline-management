@@ -12,4 +12,4 @@ primary and unique keys, and foreign keys
 
 
 ### ``database.sql``
-• Implemented procedures and views for this database
+• Implement procedures and views for this database
